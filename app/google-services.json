@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919747848701",
+    "firebase_url": "https://mvvmdemo-b0818.firebaseio.com",
+    "project_id": "mvvmdemo-b0818",
+    "storage_bucket": "mvvmdemo-b0818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919747848701:android:48fedaebcf9f4cd4489194",
+        "android_client_info": {
+          "package_name": "com.vogella.android.mvvmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919747848701-7ikj82n37af15s3ei47g96095rjcmln3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vogella.android.mvvmdemo",
+            "certificate_hash": "85be8f327e0babb2fcc920fa5142d7a9d0ae31dd"
+          }
+        },
+        {
+          "client_id": "919747848701-bde1aej985f6nh9cpvr34ep8thkr872e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkomOC6xohxSqTsXL6fsyjFyA6p7Xmf4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919747848701-bde1aej985f6nh9cpvr34ep8thkr872e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
